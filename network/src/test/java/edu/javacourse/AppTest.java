@@ -1,4 +1,4 @@
-package edu.javacourse.ext;
+package edu.javacourse;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
